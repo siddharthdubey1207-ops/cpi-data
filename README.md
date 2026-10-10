@@ -1,2 +1,3 @@
 # cpi-data
-analyze cpi data to find categories and subcategories contribution towards inflation
+Analyzed India Consumer Price Index (CPI) data to identify inflation trends across different years and expenditure categories.Performed data cleaning, sorting, filtering, and categorization using Microsoft Excel.
+Analyzed Food, Pan/Tobacco/Intoxicants, Clothing & Footwear, and other major CPI groups to identify key contributors to inflation.Identified Pan/Tobacco/Intoxicants and Clothing & Footwear among the major contributors, with 2020 and 2022 showing notable inflation trends.Analyzed food inflation and identified spices as a significant contributor within the food category.Presented findings through visualizations to support data-driven interpretation.
